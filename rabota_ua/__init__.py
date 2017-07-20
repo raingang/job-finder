@@ -1,2 +1,2 @@
-from .rabota_ua import data
-from .rabota_ua import scrapers_handler
+from . import data
+from . import scrapers_handler
