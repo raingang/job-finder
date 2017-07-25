@@ -3,7 +3,7 @@
 Для того, чтобы пользоваться парсером rabota.ua выполните комманды:
 ```python
  import rabota_ua
- s = rabota_ua.scrapers_handler
+ s = rabota_ua.scraperHandler
  ```
 
 Сохранить данные с сайта в таблицу .csv:
